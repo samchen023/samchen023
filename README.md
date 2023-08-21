@@ -8,7 +8,7 @@
 
 ![Static Badge](https://img.shields.io/badge/%E7%B7%A8%E5%AF%AB%E7%A8%8B%E5%BC%8F-VS%20code-blue)
 
-![Static Badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
 <!--
 **samchen023/samchen023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
