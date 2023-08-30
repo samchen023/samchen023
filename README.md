@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on outdoor live stream and a GUI for automation minecraft server 
+🔭 I’m currently working on outdoor live stream system and a GUI for automation minecraft server 
 
 🌱 I’m currently learning python,html,css
 
