@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on outdoor live stream system and a GUI for automation minecraft server 
 
-🌱 I’m currently learning python,html,css
+🌱 I’m currently learning Python,HTML,CSS,VB,C#
 
 🔗 My website : https://samchen023.github.io/index.html
 
