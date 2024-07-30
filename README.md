@@ -6,7 +6,9 @@
 
 🔗 My website : https://samchen023.github.io/index.html
 
-![Twitch](https://cdn.emojidex.com/emoji/px16/Twitch.png "Twitch")  I sometimes do game streaming on twitch 👉 https://www.twitch.tv/samchen023
+🤔 I’m looking for help with Unity Game Devlop
+
+![Twitch](https://drive.google.com/uc?export=view&id=16pI_OVHB2yx1burTn5hfFCxR2_oHJ--J)  I sometimes do game streaming on twitch 👉 (https://www.twitch.tv/samchen023)
 
 ![Static Badge](https://img.shields.io/badge/%E7%B7%A8%E5%AF%AB%E7%A8%8B%E5%BC%8F-VS%20code-blue)
 
@@ -18,7 +20,7 @@ Here are some ideas to get you started:
 
 
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
