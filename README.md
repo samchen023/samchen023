@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning Python,HTML,CSS,VB,C#
 
-🔗 My website : https://samchen023.github.io/index.html
+🔗 My website : [https://www.samchen023.xyz](https://www.samchen023.xyz)
 
 🤔 I’m looking for help with Unity Game Develop
 
