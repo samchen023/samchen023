@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-🔭 I’m currently working on Unity Game Devlopment and a class select system
+🔭 I’m currently working on Unity Game Development
 
-🌱 I’m currently learning Python,HTML,CSS,VB,C#
+🌱 I’m currently learning Python, HTML, CSS, VB , C#
 
 🔗 My website : [https://www.samchen023.xyz](https://www.samchen023.xyz)
 
-🤔 I’m looking for help with Unity Game Develop
+🤔 I’m looking for help with Unity Game Development
 
 ![Twitch](https://drive.google.com/uc?export=view&id=1-VHZgd2BImoknQY9irwmooUrNzUFdMLk)   I sometimes do streaming on twitch 👉 https://www.twitch.tv/samchen023
 
