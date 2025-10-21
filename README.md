@@ -2,11 +2,13 @@
 
 🔭 I’m currently working on Unity Game Development
 
-🌱 I’m currently learning Python, HTML, CSS, VB , C#
+🌱 I do develop in Python, HTML, CSS, VB, C#
+
+📖 I have experience in Discord server deployment and administration (5 server deployments and 1 server administrator), and website server deployment
 
 🔗 My website : [https://www.samchen023.xyz](https://www.samchen023.xyz)
 
-🔗 My website : [https://www.samchen023.dev](https://www.samchen023.dev)
+🔗 Develop website : [https://www.samchen023.dev](https://www.samchen023.dev)
 
 🤔 I’m looking for help with Unity Game Development
 
