@@ -8,8 +8,6 @@
 
 🔗 My website : [https://www.samchen023.xyz](https://www.samchen023.xyz)
 
-🔗 Develop website : [https://www.samchen023.dev](https://www.samchen023.dev)
-
 🤔 I’m looking for help with Unity Game Development
 
 ![Twitch](https://drive.google.com/uc?export=view&id=1-VHZgd2BImoknQY9irwmooUrNzUFdMLk)   I sometimes do streaming on twitch 👉 https://www.twitch.tv/samchen023
